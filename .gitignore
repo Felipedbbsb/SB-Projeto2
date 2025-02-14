@@ -1,0 +1,22 @@
+# Visual Studio Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+
+# Compiled object files and binaries
+*.o
+*.obj
+*.exe
+*.out
+carregador
+
+# Backup and temporary files
+*~
+*.swp
+*.tmp
+*.log
+
+# Build directories (if any)
+build/
+bin/
