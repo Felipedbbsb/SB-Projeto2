@@ -1,6 +1,6 @@
 Projeto de Software Básico (SB) da Universidade de Brasília (UnB), o qual tem como objetivo simular um carregador de arquivos.
 
-Autores: Belphy Pierre Starling (202006420) e Felipe Dantas Borges
+Autores: Belphy Pierre Starling (202006420) e Felipe Dantas Borges(202021749)
 
 Para compilar, basta digitar `make`.
 
